@@ -1,0 +1,54 @@
+13:27:18.990 [main] INFO  testCases.TC_002_LoginTest - ***** Starting TC_002_LoginTest testCase *****
+13:27:18.998 [main] DEBUG testCases.TC_002_LoginTest - capturing application debug logs
+13:27:19.094 [main] INFO  testCases.TC_002_LoginTest - Clicked on myaccount link on the homepage
+13:27:19.397 [main] INFO  testCases.TC_002_LoginTest - Clicked on login link under Homepage
+13:27:19.398 [main] INFO  testCases.TC_002_LoginTest - Enter valid email and password
+13:27:20.118 [main] INFO  testCases.TC_002_LoginTest - Clicked on login button
+13:27:20.242 [main] INFO  testCases.TC_002_LoginTest - Test is passed
+13:27:20.242 [main] INFO  testCases.TC_002_LoginTest - ***** Finish TC_002_LoginTest testCase *****
+19:27:54.069 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Starting verify_Account_Registration ****** 
+19:27:54.074 [main] DEBUG testCases.TC_001_AccountRegistrationTest - applications starts ....
+19:27:54.226 [main] INFO  testCases.TC_001_AccountRegistrationTest - click on MyAccount 
+19:27:54.716 [main] INFO  testCases.TC_001_AccountRegistrationTest - click on Register 
+19:27:54.716 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entering the customer details 
+19:27:58.578 [main] INFO  testCases.TC_001_AccountRegistrationTest - Click on COntinue button
+19:27:58.629 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message
+19:27:58.630 [main] INFO  testCases.TC_001_AccountRegistrationTest - test pass
+19:27:58.635 [main] DEBUG testCases.TC_001_AccountRegistrationTest - applications Ends ....
+19:27:58.635 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Finished verify_Account_Registration ****** 
+19:28:01.665 [main] INFO  testCases.TC_002_LoginTest - ***** Starting TC_002_LoginTest testCase *****
+19:28:01.665 [main] DEBUG testCases.TC_002_LoginTest - capturing application debug logs
+19:28:01.754 [main] INFO  testCases.TC_002_LoginTest - Clicked on myaccount link on the homepage
+19:28:02.205 [main] INFO  testCases.TC_002_LoginTest - Clicked on login link under Homepage
+19:28:02.208 [main] INFO  testCases.TC_002_LoginTest - Enter valid email and password
+19:28:03.040 [main] INFO  testCases.TC_002_LoginTest - Clicked on login button
+19:28:03.097 [main] INFO  testCases.TC_002_LoginTest - Test is passed
+19:28:03.097 [main] INFO  testCases.TC_002_LoginTest - ***** Finish TC_002_LoginTest testCase *****
+20:08:39.242 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Starting verify_Account_Registration ****** 
+20:08:39.245 [main] DEBUG testCases.TC_001_AccountRegistrationTest - applications starts ....
+20:08:39.343 [main] INFO  testCases.TC_001_AccountRegistrationTest - click on MyAccount 
+20:08:39.775 [main] INFO  testCases.TC_001_AccountRegistrationTest - click on Register 
+20:08:39.775 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entering the customer details 
+20:08:43.203 [main] INFO  testCases.TC_001_AccountRegistrationTest - Click on COntinue button
+20:08:43.252 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message
+20:08:43.253 [main] INFO  testCases.TC_001_AccountRegistrationTest - test pass
+20:08:43.258 [main] DEBUG testCases.TC_001_AccountRegistrationTest - applications Ends ....
+20:08:43.258 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Finished verify_Account_Registration ****** 
+20:08:46.536 [main] INFO  testCases.TC_002_LoginTest - ***** Starting TC_002_LoginTest testCase *****
+20:08:46.536 [main] DEBUG testCases.TC_002_LoginTest - capturing application debug logs
+20:08:46.613 [main] INFO  testCases.TC_002_LoginTest - Clicked on myaccount link on the homepage
+20:08:47.087 [main] INFO  testCases.TC_002_LoginTest - Clicked on login link under Homepage
+20:08:47.090 [main] INFO  testCases.TC_002_LoginTest - Enter valid email and password
+20:08:47.907 [main] INFO  testCases.TC_002_LoginTest - Clicked on login button
+20:08:47.956 [main] INFO  testCases.TC_002_LoginTest - Test is passed
+20:08:47.956 [main] INFO  testCases.TC_002_LoginTest - ***** Finish TC_002_LoginTest testCase *****
+20:18:11.007 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Starting verify_Account_Registration ****** 
+20:18:11.010 [main] DEBUG testCases.TC_001_AccountRegistrationTest - applications starts ....
+20:18:11.098 [main] INFO  testCases.TC_001_AccountRegistrationTest - click on MyAccount 
+20:18:11.594 [main] INFO  testCases.TC_001_AccountRegistrationTest - click on Register 
+20:18:11.594 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entering the customer details 
+20:18:15.044 [main] INFO  testCases.TC_001_AccountRegistrationTest - Click on COntinue button
+20:18:15.095 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message
+20:18:15.096 [main] INFO  testCases.TC_001_AccountRegistrationTest - test pass
+20:18:15.101 [main] DEBUG testCases.TC_001_AccountRegistrationTest - applications Ends ....
+20:18:15.101 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Finished verify_Account_Registration ****** 
